@@ -85,7 +85,7 @@ def adding_matz
         }
      }
 
-		 programmer_hash[:new_guy] = {}
+		 programmer_hash[:yukihiro_matsumoto] = {}
 		 programmer_hash
 end
 
